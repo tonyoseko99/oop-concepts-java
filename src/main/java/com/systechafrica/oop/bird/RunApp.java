@@ -3,7 +3,7 @@ package com.systechafrica.oop.bird;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BirdDemo {
+public class RunApp {
     public static void main(String[] args) {
         List<Bird> birds = new ArrayList<>();
         birds.add(new Pigeon());
