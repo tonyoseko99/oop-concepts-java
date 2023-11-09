@@ -1,4 +1,4 @@
-package com.systechafrica.oop.bird.generics;
+package com.systechafrica.javaEE.generics;
 
 public class Printer<T> {
     T thingToPrint;
